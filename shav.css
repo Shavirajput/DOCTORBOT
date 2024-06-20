@@ -1,0 +1,1012 @@
+.pharmacy-at-your {
+    width: 420px;
+    position: relative;
+    display: inline-block;
+    opacity: 0.8;
+}
+.our-dedicated-team {
+    width: 555px;
+    position: relative;
+    font-size: 18px;
+    display: inline-block;
+    opacity: 0.6;
+}
+.pharmacy-at-your-door-step-parent {
+    height: 211px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 9px;
+}
+.upload-prescription {
+    position: relative;
+    font-weight: 600;
+}
+.hovering-effect {
+    box-shadow: 4px 4px 19px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background-color: #9747ff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 19px;
+}
+.hovering-effect-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.buy-medicine-wrapper {
+    border-radius: 10px;
+    background-color: #ff6fa4;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 19px;
+    box-sizing: border-box;
+    font-size: 19px;
+}
+.frame-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 16px;
+    color: #fff;
+}
+.frame-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.frame-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+.category {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.category-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+}
+.frame-parent {
+    position: absolute;
+    top: 241px;
+    left: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 62px;
+    font-size: 38px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 2px 2px 11px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 1280px;
+    height: 125px;
+}
+.rectangle-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 125px;
+}
+.pharmacy1 {
+    position: relative;
+    color: #9747ff;
+    opacity: 0.8;
+}
+.home-parent {
+    position: absolute;
+    top: 51px;
+    left: calc(50% - 354px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 34px;
+}
+.group-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 125px;
+    font-size: 18px;
+}
+.generic {
+    margin: 0;
+}
+.generic-medicine {
+    position: absolute;
+    top: 764px;
+    left: 316px;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 171px;
+    height: 180px;
+}
+.group-inner {
+    position: absolute;
+    top: 5px;
+    left: 4px;
+    border-radius: 7px 7px 0px 0px;
+    width: 163px;
+    height: 105px;
+    object-fit: cover;
+}
+.branded-medicine {
+    position: absolute;
+    top: 120px;
+    left: 51px;
+    font-weight: 500;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 207px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 171px;
+    height: 180px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 4px;
+    left: 211px;
+    border-radius: 7px 7px 0px 0px;
+    width: 163px;
+    height: 106px;
+    object-fit: cover;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 414px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 171px;
+    height: 180px;
+}
+.group-child2 {
+    position: absolute;
+    top: 4px;
+    left: 418px;
+    border-radius: 7px 7px 0px 0px;
+    width: 163px;
+    height: 106px;
+    object-fit: cover;
+}
+.ayurveda-medicine {
+    position: absolute;
+    top: 120px;
+    left: 465px;
+    font-weight: 500;
+}
+.generic-medicine1 {
+    position: absolute;
+    top: 120px;
+    left: 236px;
+    font-weight: 500;
+    display: inline-block;
+    width: 113px;
+}
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    left: 621px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 171px;
+    height: 180px;
+}
+.group-child4 {
+    position: absolute;
+    top: 4px;
+    left: 625px;
+    border-radius: 7px 7px 0px 0px;
+    width: 163px;
+    height: 106px;
+    object-fit: cover;
+}
+.homeopathy-medicine {
+    position: absolute;
+    top: 120px;
+    left: 660px;
+    font-weight: 500;
+}
+.group-child5 {
+    position: absolute;
+    top: 0px;
+    left: 828px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.12);
+    border-radius: 15px;
+    background-color: #fff;
+    width: 171px;
+    height: 180px;
+}
+.group-child6 {
+    position: absolute;
+    top: 0px;
+    left: 828px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 171px;
+    height: 180px;
+}
+.group-child7 {
+    position: absolute;
+    top: 4px;
+    left: 832px;
+    border-radius: 7px 7px 0px 0px;
+    width: 163px;
+    height: 106px;
+    object-fit: cover;
+}
+.wellness-products {
+    position: absolute;
+    top: 120px;
+    left: 881px;
+    font-weight: 500;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 644px;
+    left: 56px;
+    width: 999px;
+    height: 180px;
+    text-align: center;
+    font-size: 14px;
+}
+.pharmacy-child {
+    position: absolute;
+    top: 249px;
+    left: 861px;
+    width: 289px;
+    height: 294px;
+    object-fit: contain;
+}
+.group-child8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 271px;
+    height: 283px;
+}
+.branded-medicine1 {
+    position: relative;
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.dolo650-parent {
+    position: absolute;
+    top: 184px;
+    left: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.pieces {
+    position: absolute;
+    top: 236px;
+    left: 15px;
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 0.9;
+}
+.div {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.9;
+}
+.wrapper {
+    position: absolute;
+    top: 184px;
+    left: 197px;
+    width: 58px;
+    height: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 271px;
+    height: 283px;
+}
+.group-child9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #bbede9;
+    width: 271px;
+    height: 164px;
+}
+.add-to-cart-botton-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 5px;
+    background-color: #9747ff;
+}
+.add {
+    position: absolute;
+    top: 23.08%;
+    left: 34.04%;
+    font-weight: 600;
+}
+.add-to-cart-botton {
+    position: absolute;
+    top: 223px;
+    left: 161px;
+    width: 94px;
+    height: 39px;
+    font-size: 14px;
+    color: #fff;
+}
+.group-div {
+    position: absolute;
+    top: 40px;
+    left: 3px;
+    width: 271px;
+    height: 283px;
+}
+.vector-icon {
+    width: 9px;
+    position: relative;
+    height: 14px;
+    opacity: 0.9;
+}
+.vector-parent {
+    position: absolute;
+    top: 184px;
+    left: 197px;
+    width: 58px;
+    height: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 40px;
+    left: 306px;
+    width: 271px;
+    height: 283px;
+}
+.group-parent2 {
+    position: absolute;
+    top: 40px;
+    left: 609px;
+    width: 271px;
+    height: 283px;
+}
+.group-parent3 {
+    position: absolute;
+    top: 40px;
+    left: 912px;
+    width: 271px;
+    height: 283px;
+}
+.generic-medicines {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.group-container {
+    position: absolute;
+    top: 856px;
+    left: 49px;
+    width: 1183px;
+    height: 323px;
+    font-size: 16px;
+}
+.group-child16 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 1280px;
+    height: 90px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 90px;
+}
+.group-child17 {
+    position: absolute;
+    top: 14px;
+    left: 50px;
+    width: 127px;
+    height: 63px;
+    object-fit: cover;
+}
+.instance-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #fff;
+}
+.search-for-medicine {
+    position: absolute;
+    top: 15.63%;
+    left: 0%;
+    opacity: 0.4;
+}
+.vector-icon3 {
+    position: absolute;
+    height: 43.75%;
+    width: 3.29%;
+    top: 29.69%;
+    right: 8.47%;
+    bottom: 26.56%;
+    left: 88.24%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.5;
+}
+.group-icon {
+    position: absolute;
+    height: 53.13%;
+    width: 2.84%;
+    top: 25%;
+    right: 0%;
+    bottom: 21.88%;
+    left: 97.16%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-child18 {
+    position: absolute;
+    height: 100%;
+    width: 0.12%;
+    top: 0%;
+    right: 5.3%;
+    bottom: 0%;
+    left: 94.58%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.1;
+}
+.search-for-medicine-parent {
+    position: absolute;
+    height: 66.67%;
+    width: 92.23%;
+    top: 16.67%;
+    right: 3.01%;
+    bottom: 16.67%;
+    left: 4.76%;
+}
+.rectangle-parent3 {
+    width: 462px;
+    position: relative;
+    height: 48px;
+}
+.bangalore {
+    position: relative;
+    opacity: 0.6;
+}
+.vector-icon4 {
+    width: 13px;
+    position: relative;
+    height: 10px;
+    opacity: 0.65;
+}
+.bangalore-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 31px;
+}
+.frame-wrapper1 {
+    width: 132px;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 22px;
+    font-size: 10px;
+}
+.instance-parent {
+    position: absolute;
+    top: 21px;
+    left: 325px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 36px;
+}
+.log-in {
+    position: relative;
+    font-weight: 500;
+}
+.log-in-wrapper {
+    position: absolute;
+    top: 21px;
+    left: 1137px;
+    border-radius: 10px;
+    background-color: #9747ff;
+    width: 92px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #fff;
+}
+.group-parent4 {
+    position: absolute;
+    top: 124px;
+    left: 0px;
+    width: 1280px;
+    height: 90px;
+    font-size: 14px;
+}
+.view-all {
+    position: absolute;
+    top: 1195px;
+    left: 1171px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.group-child19 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 269px;
+    height: 285px;
+}
+.bioline {
+    position: relative;
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 0.8;
+}
+.location-icon {
+    width: 14px;
+    position: relative;
+    height: 14px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.hsr-bengaluru-1km {
+    position: relative;
+    opacity: 0.5;
+}
+.location-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 6px;
+}
+.vector-icon5 {
+    width: 14px;
+    position: relative;
+    height: 14px;
+    opacity: 0.5;
+}
+.bioline-parent {
+    position: absolute;
+    top: 157px;
+    left: 8px;
+    width: 204.7px;
+    height: 68.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.view-tests-wrapper {
+    position: absolute;
+    top: 238px;
+    left: 8px;
+    border-radius: 10px;
+    background-color: #9747ff;
+    width: 253px;
+    height: 39px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 104px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.group-child20 {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    border-radius: 8px 8px 0px 0px;
+    width: 253px;
+    height: 141px;
+    object-fit: cover;
+    opacity: 0.9;
+}
+.rectangle-parent4 {
+    position: absolute;
+    top: 1246px;
+    left: 49px;
+    width: 269px;
+    height: 285px;
+}
+.rectangle-parent5 {
+    position: absolute;
+    top: 1246px;
+    left: 352px;
+    width: 269px;
+    height: 285px;
+}
+.bioline-container {
+    position: absolute;
+    top: 1403px;
+    left: 682px;
+    width: 204.7px;
+    height: 68.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.bioline-parent1 {
+    position: absolute;
+    top: 1744px;
+    left: 47px;
+    height: 69px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.bioline-parent2 {
+    position: absolute;
+    top: 1743px;
+    left: 284px;
+    width: 207px;
+    height: 69px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.bioline-parent3 {
+    position: absolute;
+    top: 1401px;
+    left: 963px;
+    width: 204.7px;
+    height: 68.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+.view-tests-frame {
+    position: absolute;
+    top: 1484px;
+    left: 810px;
+    border-radius: 10px;
+    background-color: #9747ff;
+    width: 125px;
+    height: 39px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 0px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.view-tests-wrapper1 {
+    position: absolute;
+    top: 1482px;
+    left: 1091px;
+    border-radius: 10px;
+    background-color: #9747ff;
+    width: 125px;
+    height: 39px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 0px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.add-wrapper {
+    position: absolute;
+    top: 1840px;
+    left: 168px;
+    border-radius: 10px;
+    background-color: #9747ff;
+    width: 86px;
+    height: 39px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 0px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.add-container {
+    position: absolute;
+    top: 1839px;
+    left: 405px;
+    border-radius: 10px;
+    background-color: #9747ff;
+    width: 86px;
+    height: 39px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 0px;
+    box-sizing: border-box;
+    color: #fff;
+}
+.pharmacy-item {
+    position: absolute;
+    top: 1254px;
+    left: 682px;
+    border-radius: 8px 8px 0px 0px;
+    width: 253px;
+    height: 141px;
+    object-fit: cover;
+    opacity: 0.9;
+}
+.pharmacy-inner {
+    position: absolute;
+    top: 1595px;
+    left: 47px;
+    border-radius: 8px 8px 0px 0px;
+    width: 207px;
+    height: 141px;
+    object-fit: cover;
+    opacity: 0.9;
+}
+.pharmacy-child1 {
+    position: absolute;
+    top: 1594px;
+    left: 284px;
+    border-radius: 8px 8px 0px 0px;
+    width: 207px;
+    height: 141px;
+    object-fit: cover;
+    opacity: 0.9;
+}
+.pharmacy-child2 {
+    position: absolute;
+    top: 1252px;
+    left: 963px;
+    border-radius: 8px 8px 0px 0px;
+    width: 253px;
+    height: 141px;
+    object-fit: cover;
+    opacity: 0.9;
+}
+.vector-icon11 {
+    width: 5px;
+    position: relative;
+    height: 8px;
+    opacity: 0.9;
+}
+.vector-parent7 {
+    position: absolute;
+    top: 1503px;
+    left: 682px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.vector-parent8 {
+    position: absolute;
+    top: 1854px;
+    left: 47px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.vector-parent9 {
+    position: absolute;
+    top: 1853px;
+    left: 284px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.vector-parent10 {
+    position: absolute;
+    top: 1501px;
+    left: 963px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+}
+.group-child23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.19);
+    border-radius: 10px 0px 0px 10px;
+    background-color: #ff6fa4;
+    width: 77px;
+    height: 73.6px;
+}
+.group-wrapper3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 73.6px;
+}
+.vector-icon15 {
+    position: absolute;
+    height: 84.85%;
+    width: 80.49%;
+    top: 15.15%;
+    right: 19.51%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.ellipse-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 15px;
+    height: 15.1px;
+}
+.div6 {
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    font-weight: 600;
+    display: inline-block;
+    width: 3px;
+    height: 17.1px;
+    opacity: 0.8;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 15px;
+    height: 17.1px;
+}
+.group-wrapper4 {
+    position: absolute;
+    top: 0px;
+    left: 26px;
+    width: 15px;
+    height: 17.1px;
+}
+.vector-parent11 {
+    position: absolute;
+    height: 44.84%;
+    width: 53.25%;
+    top: 28.53%;
+    right: 23.38%;
+    bottom: 26.63%;
+    left: 23.38%;
+}
+.group-parent5 {
+    position: absolute;
+    top: 299px;
+    left: 1203px;
+    width: 77px;
+    height: 73.6px;
+    font-size: 10px;
+}
+.pharmacy {
+    width: 100%;
+    position: relative;
+    background-color: #f6f9fd;
+    height: 2338px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 12px;
+    color: #000;
+    font-family: Poppins;
+}
+

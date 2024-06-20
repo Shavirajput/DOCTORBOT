@@ -1,0 +1,177 @@
+.back-to-icon {
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    width: 20px;
+    height: 22px;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+.home {
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    width: 360px;
+    border-radius: 15px;
+    position: fixed;
+}
+
+.login-drbot-child {
+    position: absolute;
+    top: 37px;
+    left: 20px;
+    width: 130px;
+    height: 55px;
+    object-fit: cover;
+}
+
+.login-drbot-inner {
+    position: absolute;
+    top: 119px;
+    left: 9px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #c199f4;
+    width: 158px;
+    height: 55px;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 119px;
+    left: 185px;
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #f6f9fd;
+    width: 158px;
+    height: 55px;
+    cursor: pointer;
+}
+
+.registered-user {
+    position: absolute;
+    top: 137px;
+    left: 38px;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+}
+
+.new-here {
+    position: absolute;
+    top: 137px;
+    left: 234px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+.group-child2 {
+    position: relative;
+    left: calc(50% - 182.5px);
+    border-radius: 11px;
+    background-color: #f6f9fd;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 293px;
+    height: 354px;
+    bottom: -857px;
+}
+
+.please-share-your-container {
+    position: absolute;
+    top: -94px;
+    left: 23px;
+    font-weight: 500;
+    text-align: center;
+    backdrop-filter: blur(4px);
+}
+
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 9px;
+    background-color: #d9d9d9;
+    width: 192px;
+    height: 52px;
+}
+
+.proceed {
+    position: absolute;
+    top: 14px;
+    left: 64px;
+    font-weight: 600;
+}
+
+.group-div {
+    position: absolute;
+    top: 123px;
+    left: 50px;
+    width: 192px;
+    height: 52px;
+    color: #fff;
+}
+
+.group-child4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 248px;
+    height: 67px;
+}
+
+.phone-or-email {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 120.6px;
+    height: 24.1px;
+    opacity: 0.5;
+}
+
+.phone-or-email-wrapper {
+    position: absolute;
+    top: 21px;
+    left: 64px;
+    width: 120.6px;
+    height: 24.1px;
+}
+
+.rectangle-parent1 {
+    position: absolute;
+    top: 2px;
+    left: 22px;
+    width: 248px;
+    height: 67px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.rectangle-container {
+    position: absolute;
+    top: 352px;
+    left: calc(50% - 147px);
+    width: 293px;
+    height: 354px;
+    font-size: 16px;
+}
+
+.login-drbot {
+    width: 458px;
+    position: fixed;
+    background-color: #f6f9fd;
+    height: 600px;
+    overflow: hidden;
+    text-align: right;
+    font-size: 12px;
+    color: #000;
+    font-family: Poppins;
+    right: 0px;
+    bottom: 0px;

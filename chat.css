@@ -1,0 +1,328 @@
+.home {
+    right: 15px;
+    bottom: 0px;
+    top: 79px;
+    width: 360px;
+    border-radius: 15px;
+    position: fixed;
+}
+
+
+.chat-child {
+    position: absolute;
+    top: 5px;
+    left: calc(50% - 180px);
+    border-radius: 5px;
+    width: 360px;
+    height: 132px;
+}
+
+.chat-item {
+    position: absolute;
+    top: -5px;
+    left: calc(50% - 180px);
+    border-radius: 5px;
+    width: 0px;
+    height: 132px;
+}
+
+.doctor {
+    color: #9747ff;
+}
+
+.welcome-to-doctor-container {
+    position: absolute;
+    top: 78px;
+    left: calc(50% - 93px);
+    font-size: 16px;
+    font-weight: 600;
+    opacity: 0.8;
+    color: #000;
+}
+
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fffcfc;
+    width: 360px;
+    height: 137px;
+}
+
+.group-item {
+    position: absolute;
+    top: 38px;
+    left: 216px;
+    width: 51px;
+    height: 79px;
+    object-fit: cover;
+}
+
+.group-inner {
+    position: absolute;
+    top: 10px;
+    left: 282px;
+    border-radius: 307px;
+    background-color: #9747ff;
+    width: 68px;
+    height: 108px;
+}
+
+.mask-group-icon {
+    position: absolute;
+    top: 29px;
+    left: 285px;
+    width: 55px;
+    height: 92px;
+    object-fit: contain;
+}
+
+.your-health-is {
+    margin: 0;
+}
+
+.your-health-is-container {
+    position: absolute;
+    top: 57px;
+    left: 10px;
+}
+
+.raphacure {
+    width: 61px;
+    position: absolute;
+    margin: 0 !important;
+    top: 32px;
+    left: 67px;
+    font-weight: 600;
+    display: inline-block;
+    z-index: 0;
+}
+
+.your-path-to-container {
+    width: 700px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+    opacity: 0.8;
+    z-index: 1;
+}
+
+.raphacure-parent {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+    font-size: 10px;
+    color: #000;
+}
+
+.rectangle-parent {
+    position: absolute;
+    top: 130px;
+    left: 0px;
+    width: 710px;
+    height: 137px;
+    font-size: 7px;
+    color: #9c8a8a;
+}
+
+.chat-inner {
+    position: absolute;
+    top: 290px;
+    left: 10px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    border-radius: 20px 20px 20px 0px;
+    background-color: #fff;
+    width: 235px;
+    height: 50px;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 355px;
+    left: 10px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    border-radius: 20px 20px 20px 0px;
+    background-color: #fff;
+    width: 235px;
+    height: 58px;
+}
+
+.chat-child1 {
+    position: absolute;
+    top: 450px;
+    left: 115px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    border-radius: 20px 20px 0px 20px;
+    background-color: #fff;
+    width: 235px;
+    height: 58px;
+}
+
+.welcome-to-raphacure {
+    position: absolute;
+    top: 306px;
+    left: 30px;
+    display: inline-block;
+    width: 202px;
+    height: 9px;
+}
+
+.please-let-us {
+    position: absolute;
+    top: 367px;
+    left: 30px;
+    display: inline-block;
+    width: 202px;
+    height: 34px;
+}
+
+.please-let-us1 {
+    position: absolute;
+    top: 460px;
+    left: 135px;
+    display: inline-block;
+    width: 202px;
+    height: 34px;
+}
+
+.group-icon {
+    position: relative;
+    height: 11px;
+    width: 100%;
+    top: -191px;
+
+}
+
+.rectangle-icon {
+    position: absolute;
+    top: 16px;
+    left: calc(50% - 65px);
+    width: 130px;
+    height: 56px;
+    object-fit: cover;
+}
+
+.back-to-icon {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    width: 26px;
+    height: 26px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.group-child1 {
+    position: absolute;
+    top: -190px;
+    left: 0px;
+    box-shadow: -2px -2px 19px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 360px;
+    height: 76px;
+}
+
+.rectangle-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 76px;
+}
+
+.group-child2 {
+    position: absolute;
+    top: -193px;
+    left: 0px;
+    box-shadow: 2px 2px 19px rgba(0, 0, 0, 0.1);
+    border-radius: 20px 20px 20px 0px;
+    background-color: #fff;
+    width: 328px;
+    height: 50px;
+}
+
+.ask-anything {
+    position: absolute;
+    bottom: 140px;
+    left: 55px;
+    top: -173px; 
+    width: 280px;
+    height: 60px;
+    background-color: #fffff;
+}
+
+.frame-icon {
+    position: relative;
+    height: 12px;
+    top: -191px; 
+    flex-shrink: 0;
+    width: 100%;
+    right: 9px;
+}
+
+.frame-child {
+    width: 14px;
+    position: relative;
+    height: 11px;
+}
+
+.frame-parent {
+    position: absolute;
+    top: 19px;
+    left: 14px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+
+.rectangle-group {
+    position: absolute;
+    top: 17px;
+    left: 14px;
+    width: 328px;
+    height: 50px;
+}
+
+.group-parent {
+    position: absolute;
+    top: 724px;
+    left: 0px;
+    width: 360px;
+    height: 76px;
+    font-size: 10px;
+    font-family: Ponnala;
+}
+
+.vector-icon {
+    position: absolute;
+    height: 3.1%;
+    width: 6.89%;
+    top: -113px;
+    right: 9.5%;
+    bottom: 2.53%;
+    left: 83.61%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.chat {
+    width: 103%;
+    position: relative;
+    background-color: #f6f9fd;
+    height: 620px;
+    text-align: left;
+    font-size: 12px;
+    color: #a6a0a0;
+    top: -70px;
+    font-family: Poppins;
+}
